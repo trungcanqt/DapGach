@@ -92,7 +92,7 @@
             if (!b.isBroken) {
                 context.beginPath();
                 let img = new Image();
-                img.src= 'gach.jpg';
+                img.src= './img/bng.jpg';
                 context.drawImage(img, b.x, b.y, cell.width, cell.height);
                 // context.rect(
                 //     b.x,
