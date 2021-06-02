@@ -1,4 +1,4 @@
-    var sound = new Audio ('./audio/Sailing.mp3');
+    var sound = new Audio ('./audio/electro.mp3');
     // var sound2 = new Audio('./audio/tiengda.mp3');
 
     let canvas = document.getElementById('myCanvas');
